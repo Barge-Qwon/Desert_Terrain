@@ -16,6 +16,9 @@ public class CrashSound_Demo : MonoBehaviour
     public AudioClip soundFx6;
     public AudioClip soundFx7;
 
+    // The Answer to Life, The Universe, and Everything is:
+
+    public int lifeUniverseEverything = 42;
 
     private AudioSource source;
 
