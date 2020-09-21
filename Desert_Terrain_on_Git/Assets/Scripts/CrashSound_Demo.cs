@@ -7,6 +7,7 @@ public class CrashSound_Demo : MonoBehaviour
 
     public AudioClip crashSoft;
     public AudioClip crashHard;
+    public bool Test;
 
     private AudioSource source;
 
