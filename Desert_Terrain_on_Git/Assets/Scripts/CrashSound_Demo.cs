@@ -8,10 +8,6 @@ public class CrashSound_Demo : MonoBehaviour
     public AudioClip crashSoft;
     public AudioClip crashHard;
 
-    public AudioClip crashDemo;
-    public AudioClip crashAlt;
-    public AudioClip resoundingThud;
-
     private AudioSource source;
 
     public float lowPitchRange = .75F;
