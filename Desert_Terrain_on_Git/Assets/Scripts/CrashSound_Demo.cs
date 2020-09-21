@@ -7,6 +7,15 @@ public class CrashSound_Demo : MonoBehaviour
 
     public AudioClip crashSoft;
     public AudioClip crashHard;
+    public AudioClip crashAlt;
+    public AudioClip soundFx1;
+    public AudioClip soundFx2;
+    public AudioClip soundFx3;
+    public AudioClip soundFx4;
+    public AudioClip soundFx5;
+    public AudioClip soundFx6;
+    public AudioClip soundFx7;
+
 
     private AudioSource source;
 
