@@ -13,30 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-09-20T22:13:13.751-07:00
+  lastUpdatedAtString: 2020-09-20T22:33:57.659-07:00
   initializedAtString: 2020-09-20T17:43:22.508-07:00
   entries:
-  - path: Desert_Terrain_on_Git/Library/ArtifactDB
-    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/ArtifactDB
-    projectPath: Library/ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Desert_Terrain_on_Git/Library/ArtifactDB-lock
-    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/ArtifactDB-lock
-    projectPath: Library/ArtifactDB-lock
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Desert_Terrain_on_Git/Library/EditorInstance.json
-    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
+  - path: Desert_Terrain_on_Git/Library/gfu/cache/branches.yaml
+    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Desert_Terrain_on_Git/Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Desert_Terrain_on_Git/Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -52,57 +46,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Desert_Terrain_on_Git/Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Desert_Terrain_on_Git/Library/SceneVisibilityState.asset
-    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/SceneVisibilityState.asset
-    projectPath: Library/SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Desert_Terrain_on_Git/Library/ShaderCache/EditorEncounteredVariants
-    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/ShaderCache/EditorEncounteredVariants
-    projectPath: Library/ShaderCache/EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Desert_Terrain_on_Git/Library/shadercompiler-UnityShaderCompiler1.log
-    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/shadercompiler-UnityShaderCompiler1.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Desert_Terrain_on_Git/Library/shadercompiler-UnityShaderCompiler2.log
-    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/shadercompiler-UnityShaderCompiler2.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Desert_Terrain_on_Git/Library/SourceAssetDB
     fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Desert_Terrain_on_Git/Library/SourceAssetDB-lock
-    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/SourceAssetDB-lock
-    projectPath: Library/SourceAssetDB-lock
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Desert_Terrain_on_Git/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Desert_Terrain_on_Git/Temp/UnityLockfile
-    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Temp/UnityLockfile
-    projectPath: Temp/UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
