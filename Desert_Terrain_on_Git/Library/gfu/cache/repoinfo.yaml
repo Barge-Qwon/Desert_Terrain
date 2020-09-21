@@ -13,13 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-<<<<<<< Updated upstream
-  lastUpdatedAtString: 2020-09-20T23:03:44.854-07:00
-  initializedAtString: 2020-09-20T23:03:44.854-07:00
-=======
-  lastUpdatedAtString: 2020-09-20T23:14:04.104-07:00
-  initializedAtString: 2020-09-20T16:59:53.504-07:00
->>>>>>> Stashed changes
+  lastUpdatedAtString: 2020-09-21T09:11:21.662-07:00
+  initializedAtString: 2020-09-21T09:11:21.662-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/Barge-Qwon/Desert_Terrain.git
