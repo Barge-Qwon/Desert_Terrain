@@ -7,13 +7,10 @@ public class CrashSound_Demo : MonoBehaviour
 
     public AudioClip crashSoft;
     public AudioClip crashHard;
-<<<<<<< .merge_file_f0xXa9
-    public bool Test;
-=======
+
     public AudioClip crashDemo;
     public AudioClip crashAlt;
     public AudioClip resoundingThud;
->>>>>>> .merge_file_eaOCUt
 
     private AudioSource source;
 
