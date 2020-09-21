@@ -13,12 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-09-20T17:24:39.714-07:00
+  lastUpdatedAtString: 2020-09-20T17:30:37.191-07:00
   initializedAtString: 2020-09-20T16:59:54.870-07:00
   entries:
-  - path: Desert_Terrain_on_Git/Library/gfu/cache/branches.yaml
-    fullPath: /Users/a808/Desert_Terrain/Desert_Terrain_on_Git/Library/gfu/cache/branches.yaml
-    projectPath: Library/gfu/cache/branches.yaml
+  - path: Desert_Terrain_on_Git/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/a808/Desert_Terrain/Desert_Terrain_on_Git/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Desert_Terrain_on_Git/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/a808/Desert_Terrain/Desert_Terrain_on_Git/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

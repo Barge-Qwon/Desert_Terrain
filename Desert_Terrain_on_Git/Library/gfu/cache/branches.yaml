@@ -13,13 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-09-20T17:24:39.261-07:00
+  lastUpdatedAtString: 2020-09-20T17:31:14.640-07:00
   initializedAtString: 2020-09-20T17:15:44.194-07:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -44,9 +46,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Barge-Qwon/Desert_Terrain.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/Barge-Qwon/Desert_Terrain.git
