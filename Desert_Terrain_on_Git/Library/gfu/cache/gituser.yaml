@@ -13,7 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 8
+<<<<<<< HEAD
   lastUpdatedAtString: 2020-09-20T17:10:20.737-07:00
   initializedAtString: 2020-09-20T17:10:20.735-07:00
   gitName: U_T
   gitEmail: U_T@Creative_ENT.org
+=======
+  lastUpdatedAtString: 2020-09-20T17:12:37.025-07:00
+  initializedAtString: 2020-09-20T17:10:46.575-07:00
+  gitName: E_H
+  gitEmail: public.static.void.dog.string.args@gmail.com
+>>>>>>> d9cc94a0ca5362573052e31a37db3c6fda2a009d
