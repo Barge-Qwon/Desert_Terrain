@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< .merge_file_Ddd2GL
   lastUpdatedAtString: 2020-09-21T09:21:29.384-07:00
   initializedAtString: 2020-09-21T09:11:21.662-07:00
+=======
+  lastUpdatedAtString: 2020-09-21T09:17:15.207-07:00
+  initializedAtString: 2020-09-21T09:17:15.207-07:00
+>>>>>>> .merge_file_QvJ4QH
   currentGitRemote:
     name: origin
     url: https://github.com/Barge-Qwon/Desert_Terrain.git

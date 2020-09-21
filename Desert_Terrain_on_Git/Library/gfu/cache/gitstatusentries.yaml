@@ -13,18 +13,74 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< .merge_file_YcqhV9
   lastUpdatedAtString: 2020-09-21T09:24:31.748-07:00
   initializedAtString: 2020-09-21T09:11:23.366-07:00
+=======
+  lastUpdatedAtString: 2020-09-21T09:17:16.467-07:00
+  initializedAtString: 2020-09-21T09:17:16.467-07:00
+>>>>>>> .merge_file_SYFgAZ
   entries:
-  - path: Desert_Terrain_on_Git/Library/gfu/cache/branches.yaml
-    fullPath: /Users/a808/Desert_Terrain/Desert_Terrain_on_Git/Library/gfu/cache/branches.yaml
-    projectPath: Library/gfu/cache/branches.yaml
+  - path: Desert_Terrain_on_Git/Library/ArtifactDB
+    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< .merge_file_YcqhV9
   - path: Desert_Terrain_on_Git/Library/SourceAssetDB
     fullPath: /Users/a808/Desert_Terrain/Desert_Terrain_on_Git/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+=======
+  - path: Desert_Terrain_on_Git/Library/ArtifactDB-lock
+    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/ArtifactDB-lock
+    projectPath: Library/ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Desert_Terrain_on_Git/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Desert_Terrain_on_Git/Library/SceneVisibilityState.asset
+    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Desert_Terrain_on_Git/Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Desert_Terrain_on_Git/Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Desert_Terrain_on_Git/Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Desert_Terrain_on_Git/Library/SourceAssetDB
+    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Desert_Terrain_on_Git/Library/SourceAssetDB-lock
+    fullPath: /Users/808a/Desert_Terrain_Git_Folder/Desert_Terrain_on_Git/Library/SourceAssetDB-lock
+    projectPath: Library/SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+>>>>>>> .merge_file_SYFgAZ
