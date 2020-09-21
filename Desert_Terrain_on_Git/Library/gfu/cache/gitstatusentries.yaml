@@ -13,18 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-09-20T17:43:42.777-07:00
+  lastUpdatedAtString: 2020-09-20T17:45:30.869-07:00
   initializedAtString: 2020-09-20T16:59:54.870-07:00
   entries:
-  - path: Desert_Terrain_on_Git/Assets/Scenes/v13.unity
-    fullPath: /Users/a808/Desert_Terrain/Desert_Terrain_on_Git/Assets/Scenes/v13.unity
-    projectPath: Assets/Scenes/v13.unity
+  - path: Desert_Terrain_on_Git/Assets/Scenes/v14.unity
+    fullPath: /Users/a808/Desert_Terrain/Desert_Terrain_on_Git/Assets/Scenes/v14.unity
+    projectPath: Assets/Scenes/v14.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Desert_Terrain_on_Git/Assets/Scenes/v13.unity.meta
-    fullPath: /Users/a808/Desert_Terrain/Desert_Terrain_on_Git/Assets/Scenes/v13.unity.meta
-    projectPath: Assets/Scenes/v13.unity.meta
+  - path: Desert_Terrain_on_Git/Assets/Scenes/v14.unity.meta
+    fullPath: /Users/a808/Desert_Terrain/Desert_Terrain_on_Git/Assets/Scenes/v14.unity.meta
+    projectPath: Assets/Scenes/v14.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -61,6 +61,12 @@ MonoBehaviour:
   - path: Desert_Terrain_on_Git/Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/a808/Desert_Terrain/Desert_Terrain_on_Git/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Desert_Terrain_on_Git/Library/SceneVisibilityState.asset
+    fullPath: /Users/a808/Desert_Terrain/Desert_Terrain_on_Git/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
